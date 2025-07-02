@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/Alsheshtawy/e-commerce)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alsheshtawy](https://github.com/Alsheshtawy)
-
 - 📫 How to reach me **ayadm8461@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
