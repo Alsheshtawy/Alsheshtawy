@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsheshtawy" alt="alsheshtawy" /></a> </p>
 
-- 👯 I’m looking to collaborate on [E-commerce](https://github.com/Alsheshtawy/e-commerce)
-
 - 📫 How to reach me **ayadm8461@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
