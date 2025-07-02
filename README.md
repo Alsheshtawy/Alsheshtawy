@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me: <br>Software Engineer specializing in back-end development, I have experience in designing and developing distributed systems and scalable applications using the latest technologies. Passionate about improving performance and finding innovative solutions to complex software challenges. I have strong teamwork and communication skills with a multidisciplinary team to achieve project goals.<br><br>*Designed and implemented high-performance APIs using [technologies such as Node.js, JavaScript, Java].<br>*Built and maintained relational and non-relational databases ([MongoDB, MySQL]).<br>*Enhanced system performance by analyzing and optimizing code.<br>*Managed source control and versioning with Git and GitHub/GitLab.<br>*Developed backend services for web.</h3>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : I finished my course in AMIT and finally finished it and my score is 90%. <br><br>I Joined ALX Software Engineering Program and Successfully completed a rigorous [12-month/18-month] program focused on mastering software engineering fundamentals and advanced development techniques.</h3>
 
 ###
