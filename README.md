@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : I finished my course in AMIT and finally finished it and my score is 90%. <br><br>I Joined ALX Software Engineering Program and Successfully completed a rigorous [12-month/18-month] program focused on mastering software engineering fundamentals and advanced development techniques.</h3>
+<h3 align="left">🔥   My Stats : I finished my back-end course in AMIT and finally finished it and my score is 90%. <br><br>I Joined ALX Software Engineering Program and Successfully completed a rigorous [12-month/18-month] program focused on mastering software engineering fundamentals and advanced development techniques.</h3>
 
 ###
